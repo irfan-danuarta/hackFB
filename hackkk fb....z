@@ -1,0 +1,5 @@
+#pkg update && upgrade
+#pkg install python2
+#git clone https://github.com/irfan-danuarta/hackFB
+#cd hackFB
+#python2 hackFB.py
