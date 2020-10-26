@@ -1,11 +1,11 @@
-#pkg update && upgrade
+$pkg update && upgrade
 
-#pkg install python2
+$pkg install python2
 
-#pkg install mechanize
+$pkg install mechanize
 
-#git clone https://github.com/irfan-danuarta/hackFB
+$git clone https://github.com/irfan-danuarta/hackFB
 
-#cd hackFB
+$cd hackFB
 
-#python hackFB.py
+$python hackFB.py
