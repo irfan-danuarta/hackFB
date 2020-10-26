@@ -1,0 +1,34 @@
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+echo "--------------------"
+echo " irfan danuarta:"
+echo "--------------------"
+
+if
+echo "Silahkan pilih tools:" $pilih
+   echo "1. Nomor Whatsaap"
+   echo "2. Instagram"
+   echo "3. Exit"
+
+ fi [ $pilih = "1" ]
+if
+fi [ $pilih = "1" ]
+      echo " "
+sleep1
+clear
+fi [ $pilih = "2" ]
+
+echo "login dulu bos"
+
+echo " [ $username =
+echo " [ $pasword  =
+clear
+sleep2
+
+exit
+fi
